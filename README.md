@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/sahad.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://sahad.png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="WHITESPARROW" src="https://img.shields.io/badge/WHITESPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/smiracleofficial">Ajmal-Achu</a> to make it public
+Project created by <a href="https://github.com/smiracleofficial">Sahad</a> to make it public
     <br>
        | © |
         Reserved |
